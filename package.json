@@ -1,0 +1,24 @@
+{
+  "name": "callbackhell",
+  "version": "1.0.0",
+  "description": "undastanding callbacks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerocinque/callbackHell.git"
+  },
+  "author": "Luigi Bottasso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerocinque/callbackHell/issues"
+  },
+  "homepage": "https://github.com/zerocinque/callbackHell#readme",
+  "dependencies": {
+    "async": "^2.5.0",
+    "co": "^4.6.0",
+    "fs": "0.0.1-security"
+  }
+}
